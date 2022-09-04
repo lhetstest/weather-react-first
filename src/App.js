@@ -9,7 +9,7 @@ function App() {
         <Weather />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/lhetstest/weather-react-first"
           target="_blank"
           rel="noopener noreferrer"
         >
