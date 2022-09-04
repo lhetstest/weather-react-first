@@ -26,10 +26,17 @@ p {
 
 .left {
   margin-right: 70px;
+  text-align: right;
 }
 
 .right {
-  padding-top: 35px;
+  padding-top: 20px;
+}
+
+.right p{
+  margin-bottom: 0;
+  margin-top: 10px;
+  text-align: center;
 }
 
 h3 {
